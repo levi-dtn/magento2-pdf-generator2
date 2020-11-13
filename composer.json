@@ -11,12 +11,16 @@
       "Eadesigndev\\Pdfgenerator\\": ""
     }
   },
-  "repositories": [
-    {
+  "repositories": {
+    "0" : {
       "type": "composer",
       "url": "https://repo.magento.com/"
+    },
+    "eadesignro/module-eacore": {
+      "type": "git",
+      "url": "git@github.com:levi-dtn/eacore.git"
     }
-  ],
+  },
   "license": [
     "Apache-2.0"
   ],
